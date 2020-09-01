@@ -1,0 +1,9 @@
+{
+	"paths": {
+		"js": "./js",
+		"css": "./css",
+		"sass": "./sass",
+		"node": "./node_modules/",
+		"dev": "./src"
+	}
+}
